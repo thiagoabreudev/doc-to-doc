@@ -1,2 +1,4 @@
 # doc-to-doc
-Documentação para escrever a documentação do storefront
+Está é uma documentação que explica os passsos para criar a documentação do storefront
+
+- [Como começar](start.md)
